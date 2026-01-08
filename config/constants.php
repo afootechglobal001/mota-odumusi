@@ -3,7 +3,7 @@
 	$website_auto_url =(isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 	$thename='Mota Odumusi Anglican Nursery/Primary School'; 
 
-	$website_url='http://localhost/schoolBolt/mota-odumusi-anglican-school';
+	$website_url='http://localhost/schoolBolt/mota-odumusi';
 	//$website_url='https://motaodumusianglicanschools.com/';
 	$portalUrl=$website_url.'/portal';
 
@@ -12,7 +12,7 @@
 
 <script>
 //////////////////online constants///////////////////////
-var website_url = 'http://localhost/schoolBolt/mota-odumusi-anglican-school';
+var website_url = 'http://localhost/schoolBolt/mota-odumusi';
 //var website_url = 'https://motaodumusianglicanschools.com/';
 
 var apiKey = 'cb2321c2-64bd-434a-ac30-0acbad030d61';
