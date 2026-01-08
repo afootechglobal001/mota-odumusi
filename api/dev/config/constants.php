@@ -9,7 +9,7 @@ $system_name=gethostname();//computer used
 
 /// all constance
 //$websiteUrl='https://motaodumusianglicanschools.com';
-$websiteUrl='http://localhost/schoolBolt/mota-odumusi-anglican-school';
+$websiteUrl='http://localhost/schoolBolt/mota-odumusi';
 
 $documentStoragePath=$websiteUrl.'/api/uploaded-files/dev';
 
