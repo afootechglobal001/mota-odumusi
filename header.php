@@ -24,7 +24,7 @@
                 <div class="contact no-border"><img src="<?php echo $website_url?>/all-images/images/clock.png" alt="Clock"> <span>Monday - Friday (8am - 4pm)</span></div>
                 <div class="contact dsp-none"><img src="<?php echo $website_url?>/all-images/images/mail.png" alt="Email"> <span><a href="mailto:info@motaodumusianglicanschools.com">info@motaodumusianglicanschools.com</a></span>
                 </div>
-                <div class="contact"><img src="<?php echo $website_url?>/all-images/images/telephone.png" alt="Phone"> <span><a href="tel:+2348038574251">(+234) 803 857 4251</a></span></div>
+                <div class="contact"><img src="<?php echo $website_url?>/all-images/images/telephone.png" alt="Phone"> <span><a href="tel:+2348067874629">(+234) 806 787 4629</a></span></div>
             </div>
         </div>
     </div>

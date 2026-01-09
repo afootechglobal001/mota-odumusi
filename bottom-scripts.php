@@ -16,7 +16,7 @@ AOS.init({
 </script>
 
 <div class="media-link-div">
-    <a href="tel:+14154944044" title="Call Customer Care">
+    <a href="tel:+2348067874629" title="Call Customer Care">
     <li style="background:#008040;"><i class="bi-telephone-outbound-fill"></i></li></a>
     <a href="https://web.facebook.com/profile.php?id=61554186638569" target="_blank" title="Facebook">
     <li style="background:#2980b9;"><i class="bi-facebook"></i></li></a>
@@ -24,7 +24,7 @@ AOS.init({
     <li style="background:#3498db;"><i class="bi-twitter-x"></i></li></a>
     <a href="https://www.instagram.com/" target="_blank" title="Instagram">
     <li style="background-image: linear-gradient(to right,#03F, #F0F);"><i class="bi-instagram"></i></li></a>
-    <a href="https://api.whatsapp.com/send?text=Hello Mota Odumusi Anglican Nursery/Primary School&phone=+2348038574251" target="_blank" title="Whatsapp">
+    <a href="https://api.whatsapp.com/send?text=Hello Mota Odumusi Anglican Nursery/Primary School&phone=+2348067874629" target="_blank" title="Whatsapp">
       <li style="background:#25D366;"><i class="bi-whatsapp"></i></li></a>
 </div>
 

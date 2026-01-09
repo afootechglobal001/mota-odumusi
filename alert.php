@@ -30,23 +30,23 @@
 
 <div class="sidenavdiv">
     <div class="live-chat-back-div">
-
-    <a href="tel:1-800-658-5679" title="Call Customer Care">
+    <a href="tel:+2348067874629" title="Call Customer Care">
         <div class="chat-div">
             <div class="icon-div" style="background:#008040;"><i class="bi-telephone-outbound"></i></div>
-            <div class="text">1-800-658-5679</div>
+            <div class="text">0806 787 4629</div>
           <br clear="all" />
         </div>
     </a>
-    <a href="https://api.whatsapp.com/" target="_blank" title="Whatsapp">
+    
+    <a href="https://api.whatsapp.com/send?text=Hello Mota Odumusi Anglican Nursery/Primary School&phone=+2348067874629" target="_blank" title="Whatsapp">
         <div class="chat-div">
             <div class="icon-div" style="background:#25D366;"><i class="bi-whatsapp"></i></div>
-            <div class="text">+234-812-700-0262</div>
+            <div class="text">0806 787 4629</div>
           <br clear="all" />
         </div>
     </a>
 
-    <a href="https://www.facebook.com/profile.php?id=100069298451555" target="_blank" title="Facebook">
+    <a href="https://web.facebook.com/profile.php?id=61554186638569" target="_blank" title="Facebook">
         <div class="chat-div">
             <div class="icon-div" style="background:#2980b9;"><i class="bi-facebook"></i></div>
             <div class="text">Facebook Page </div>
@@ -69,10 +69,7 @@
           <br clear="all" />
         </div>
     </a>
-  
 </div>
-
-
 
 
 <div class="index-menu-back-div"> 
