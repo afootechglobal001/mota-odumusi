@@ -56,7 +56,7 @@ class allClass
         function _otherPagesBtn($website_url) { ?>
                 <div class="other-pages-btn-div">
                         <button class="btn" title="Apply For Admission"><img src="<?php echo $website_url ?>/all-images/images/graduation.png" alt="Apply For Admission" /> Apply For Admission</button>
-                        <button class="btn right-btn" title="Student Portal"><img src="<?php echo $website_url ?>/all-images/images/student.png" alt="Student Portal" /> Student Portal</button>
+                        <button class="btn center-btn" title="Student Portal"><img src="<?php echo $website_url ?>/all-images/images/student.png" alt="Student Portal" /> Student Portal</button>
                         <a href="<?php echo $website_url ?>/portal/parent/login" title="Parent Portal"><button class="btn"><img src="<?php echo $website_url ?>/all-images/images/parents.png" alt="Parent Portal" /> Parent Portal</button></a> 
                 </div>
         <?php }
