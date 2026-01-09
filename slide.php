@@ -13,8 +13,6 @@
             <li><img src="slide-property/data/images/8.jpg" alt="8" title="" /></li>
             <li><img src="slide-property/data/images/9.jpg" alt="9" title="" /></li>
             <li><img src="slide-property/data/images/10.jpg" alt="10" title="" /></li>
-            <li><img src="slide-property/data/images/11.jpg" alt="11" title="" /></li>
-            <li><img src="slide-property/data/images/12.jpg" alt="12" title="" /></li>
         </ul>
     </div>
 
