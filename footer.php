@@ -11,7 +11,7 @@
                     providing quality early childhood and basic education in a caring and disciplined environment.</p>
                 <div class="icon-div">
                     <button class="social-icon" title="Youtube"><i class="bi-youtube"></i></button>
-                    <a href="https://web.facebook.com/profile.php?id=61554186638569" target="_blank" title="Facebook">
+                    <a href="https://web.facebook.com/profile.php?id=61586194144392" target="_blank" title="Facebook">
                     <button class="social-icon" title="Facebook"><i class="bi-facebook"></i></button></a>
                     <button class="social-icon" title="Tiktok"><i class="bi-tiktok"></i></button>
                     <button class="social-icon" title="Instagram"><i class="bi-instagram"></i></button>
