@@ -18,7 +18,7 @@ AOS.init({
 <div class="media-link-div">
     <a href="tel:+2348067874629" title="Call Customer Care">
     <li style="background:#008040;"><i class="bi-telephone-outbound-fill"></i></li></a>
-    <a href="https://web.facebook.com/profile.php?id=61586194144392" target="_blank" title="Facebook">
+    <a href="https://web.facebook.com/profile.php?id=61586529778835" target="_blank" title="Facebook">
     <li style="background:#2980b9;"><i class="bi-facebook"></i></li></a>
     <a href="https://twitter.com/" target="_blank" title="Twitter">
     <li style="background:#3498db;"><i class="bi-twitter-x"></i></li></a>
